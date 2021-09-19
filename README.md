@@ -6,3 +6,10 @@ Raw Iron Block -> Iron Block
 Raw Copper Block -> Copper Block
 
 Raw Gold Block -> Gold Block
+
+Furnace:
+- 9x XP, but 6x slower to raw ingots in Furnace
+
+Blast Furnace:
+- Half XP and Speed to Furnace (4,5x XP, but 3x slower to raw ingots in Blast Furnace)
+- 9x XP, but 6x slower to raw ingots in Blast Furnace
