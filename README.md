@@ -11,5 +11,5 @@ Furnace:
 - 9x XP, but 6x slower to raw ingots in Furnace
 
 Blast Furnace:
-- Half XP and Speed to Furnace (4,5x XP, but 3x slower to raw ingots in Blast Furnace)
-- 9x XP, but 6x slower to raw ingots in Blast Furnace
+- Half XP, but half speed to raw ingots blocks in Furnace
+- 6x slower to raw ingots in Blast Furnace
