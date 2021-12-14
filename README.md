@@ -1,4 +1,4 @@
-# ribstnib
+# [ribstnib](https://github.com/SanCraftDev/ribstnib)
 A datapack to smelt raw ingot blocks to normal ingot blocks
 
 Raw Iron Block -> Iron Block
@@ -14,5 +14,4 @@ Blast Furnace:
 - Half XP, but half speed to raw ingots blocks in Furnace
 - 6x slower to raw ingots in Blast Furnace
 
-## Download:
-https://github.com/SanCraftDev/ribstnib/releases/latest/download/ribstnib.zip
+## [Download](https://github.com/SanCraftDev/ribstnib/releases/latest/download/ribstnib.zip)
