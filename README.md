@@ -7,11 +7,7 @@ Raw Copper Block -> Copper Block
 
 Raw Gold Block -> Gold Block
 
-Furnace:
-- 9x XP, but 6x slower to raw ingots in Furnace
+Sand -> Glass
 
-Blast Furnace:
-- Half XP, but half speed to raw ingots blocks in Furnace
-- 6x slower to raw ingots in Blast Furnace
-
+Red Sand -> Orange Glass
 ## [Download](https://github.com/SanCraftDev/ribstnib/releases/latest/download/ribstnib.zip)

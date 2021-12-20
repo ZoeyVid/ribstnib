@@ -4,7 +4,7 @@
     "tag": "minecraft:sand"
   },
   "result": "minecraft:glass",
-  "experience": 0.05,
+  "experience": 0.1,
   "cookingtime": 100
   "group": "sand"
 }

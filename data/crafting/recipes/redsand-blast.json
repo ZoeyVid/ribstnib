@@ -4,7 +4,7 @@
     "tag": "minecraft:red_sand"
   },
   "result": "minecraft:orange_stained_glass",
-  "experience": 0.05,
+  "experience": 0.1,
   "cookingtime": 100
   "group": "sand"
 }

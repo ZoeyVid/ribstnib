@@ -4,7 +4,7 @@
         "item": "minecraft:raw_copper_block"
     },
     "result": "minecraft:copper_block",
-    "experience": 3.15,
-    "cookingtime": 675,
+    "experience": 6.3,
+    "cookingtime": 900,
     "group": "rawblock"
 }
