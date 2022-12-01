@@ -1,4 +1,4 @@
-# [ribstnib](https://github.com/SanCraftDev/ribstnib)
+# [ribstnib](https://github.com/ZoeyVid/ribstnib)
 A datapack to smelt raw ingot blocks to normal ingot blocks
 
 Raw Iron Block -> Iron Block
@@ -10,4 +10,4 @@ Raw Gold Block -> Gold Block
 Sand -> Glass
 
 Red Sand -> Orange Glass
-## [Download](https://github.com/SanCraftDev/ribstnib/releases/latest/download/ribstnib.zip)
+## [Download](https://github.com/ZoeyVid/ribstnib/releases/latest/download/ribstnib.zip)
