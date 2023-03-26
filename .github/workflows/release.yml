@@ -23,6 +23,6 @@ jobs:
         with:
           prerelease: false
           repo_token: ${{ github.token }}
-          title: ${{ steps.version.outputs.version }}
+          title: v${{ steps.version.outputs.version }}
           automatic_release_tag: ${{ steps.version.outputs.version }}
           files: ribstnib.zip 
