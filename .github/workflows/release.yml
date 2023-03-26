@@ -1,0 +1,28 @@
+name: Release
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/.version
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Read .version file
+        id: version
+        run: echo "version=$(cat .github/.version)" >> $GITHUB_OUTPUT
+      - name: zip datapack
+        run: zip -r ribstnib.zip pack.mcmeta data
+      - uses: actions/upload-artifact@v3
+        with:
+          name: artifacts
+          path: ribstnib.zip 
+      - uses: marvinpinto/action-automatic-releases@latest
+        if: github.event_name != 'pull_request'
+        with:
+          prerelease: false
+          repo_token: ${{ github.token }}
+          title: ${{ steps.version.outputs.version }}
+          automatic_release_tag: ${{ steps.version.outputs.version }}
+          files: ribstnib.zip 
