@@ -18,7 +18,7 @@ jobs:
         with:
           name: artifacts
           path: ribstnib.zip 
-      - uses: marvinpinto/action-automatic-releases@latest
+      - uses: crowbarmaster/GH-Automatic-Releases@latest
         if: github.event_name != 'pull_request'
         with:
           prerelease: false
