@@ -15,4 +15,4 @@ jobs:
       - name: mcmeta-syntax-check
         uses: limitusus/json-syntax-check@v2
         with:
-          pattern: "\pack.mcmeta$*"
+          pattern: "pack.mcmeta$*"
