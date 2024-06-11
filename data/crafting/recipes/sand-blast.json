@@ -1,10 +1,13 @@
 {
-    "type": "minecraft:blasting",
-    "ingredient": {
-        "item": "minecraft:sand"
-    },
-    "result": "minecraft:glass",
-    "experience": 0.1,
-    "cookingtime": 100,
-    "group": "sand"
+	"type": "minecraft:blasting",
+	"category": "blocks",
+	"group": "sand",
+	"ingredient": {
+		"item": "minecraft:sand"
+	},
+	"result": {
+		"id": "minecraft:glass"
+	},
+	"experience": 0.1,
+	"cookingtime": 100
 }
